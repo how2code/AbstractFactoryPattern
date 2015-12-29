@@ -1,4 +1,4 @@
-package com.how2code.designpattern.abstractfactorypattern.factory;
+package com.how2code.designpattern.abstractfactory.factory;
 
 public class FileSystemProducer {
 	public static FileSystemFactory getFileSystemFactory(FileSystemEntityType type) {

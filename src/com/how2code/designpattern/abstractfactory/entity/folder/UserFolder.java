@@ -1,4 +1,4 @@
-package com.how2code.designpattern.abstractfactorypattern.entity.folder;
+package com.how2code.designpattern.abstractfactory.entity.folder;
 
 public class UserFolder implements IFolder {
 

@@ -1,4 +1,4 @@
-package com.how2code.designpattern.abstractfactorypattern.entity.file;
+package com.how2code.designpattern.abstractfactory.entity.file;
 
 public class DocFile implements IFile {
 	
